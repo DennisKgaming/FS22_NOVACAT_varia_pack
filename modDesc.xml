@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="44">
+    <author>anthu</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>NOVACAT 301+X8 Varia</en>
+    </title>
+    <description>
+        <en><![CDATA[Pöttinger Novacat 301 and X8 with variable swath deposit; NovaCat 301: price 19.000; workingWidth 3.1m; needed Power 70PS; NovaCat X8: price 42.000; workingWidth 8.4m; needed Power 160PS;]]></en>
+        <de><![CDATA[Pöttinger Novacat 301 und X8 mit variabler Schwadablage; NovaCat 301: Preis 19.000; Arbeitsbreite 3.1m; PS-Bedarf 70PS; NovaCat X8: Preis 42.000; Arbeitsbeite 8.4m; PS-Bedarf 160PS;]]></de>
+        <fr><![CDATA[Pöttinger Novacat 301 et X8 avec andainage variable; NovaCat 301: prix 19.000; la largeur de travail 3.1m; besoin de puissance 70PS; NovaCat X8: prix 42.000; la largeur de travail 8.4m; besoin de puissance 160PS;]]></fr>
+    </description>
+
+    <iconFilename>icon.dds</iconFilename>
+    <multiplayer supported="true" />
+    <storeItems>
+        <storeItem xmlFilename="poettingerNovaCat301.xml"/>
+        <storeItem xmlFilename="poettingerNovaCatX8.xml"/>
+    </storeItems>
+</modDesc>
